@@ -1,5 +1,5 @@
 # Site settings
-title: 채영의 블로그 i[image](https://avatars2.githubusercontent.com/u/44864214?s=400&u=1006ece6fa93faf65427295e39eb1a1adb071883&v=4)
+title: 고복실 
 url: "http://gochaeyoung.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
@@ -7,11 +7,11 @@ description: >
   description
 
 # Your information
-email: yunho0130@gmail.com
-author: 고채영
+email: gcy01110@naver.com
+author: 고복실
 # avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 avatar: "https://github.com/iris9190/iris9190.github.io/blob/master/media/smiling_face_466850.png"
-profile: <br> 영광 할렐루야 
+profile: <br> 누구보다 행복한 날을 꿈꾸며 
 #twitter_username: twitter_username
 github_username:  gochaeyoung
 
