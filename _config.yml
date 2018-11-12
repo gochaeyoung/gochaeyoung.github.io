@@ -3,7 +3,7 @@ title: 채영의 블로그
 url: "http://gochaeyoung.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
-description: https://github.com/gochaeyoung/gochaeyoung.github.io/blob/master/media/KakaoTalk_20181112_131930118.jpg"
+description: >
   description
 
 # Your information
