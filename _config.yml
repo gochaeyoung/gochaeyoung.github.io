@@ -20,6 +20,9 @@ github_username:  gochaeyoung
 disqus_shortname: maengdev   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
+# Disqus
+discuc-identifier : gochaeyoung.github.io # add your discus identifier
+
 permalink: /archivers/:title
 gems:
  - jekyll-paginate
